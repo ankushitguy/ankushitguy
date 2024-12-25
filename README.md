@@ -20,7 +20,7 @@ I'm a backend developer, programmer, and cloud solution architect with a passion
   ![Red Hat Certified Engineer](https://img.shields.io/badge/Red%20Hat-Certified%20Engineer-red?logo=redhat&logoColor=white)
 
 ### 📚 Blog  
-Check out my latest articles on [blog.altgr.in](https://blog.altgr.in).  
+Check out my latest articles on [blog.altgr.in](https://blog.altgr.in){:target="_blank"}.  
 
 ### 🔗 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-more-935241195)
