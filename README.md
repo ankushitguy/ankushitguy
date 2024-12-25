@@ -16,9 +16,9 @@ I'm a backend developer, programmer, and cloud solution architect with a passion
 Check out my latest articles on [blog.altgr.in](https://blog.altgr.in).  
 
 ### 🔗 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white)](https://twitter.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/AnkushMore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ankush-more-935241195)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white)](https://twitter.com/ankushitguy)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/ankushitguy)
 
 ---
 
