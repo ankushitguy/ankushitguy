@@ -4,7 +4,7 @@
 I'm a backend developer, programmer, and cloud solution architect with a passion for creating scalable and efficient systems. I enjoy learning and sharing knowledge through my [blog](https://blog.altgr.in).  
 
 #### 🎓 Certifications  
-- ![Google IT Automation with Python](https://img.shields.io/badge/Google-IT%20Automation%20with%20Python-blue?logo=google&logoColor=white) [🔗](https://example.com)
+- ![Google IT Automation with Python](https://img.shields.io/badge/Google-IT%20Automation%20with%20Python-blue?logo=google&logoColor=white) ➡️ [🔗Link]([https://example.com](https://www.coursera.org/account/accomplishments/specialization/certificate/S4V5GCP62FCU))
 - ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-blueviolet?logo=microsoft&logoColor=white)
 - ![Twilio Programmable Messaging and Voice Professional Certificate](https://img.shields.io/badge/Twilio-Programmable%20Messaging%20and%20Voice-red?logo=twilio&logoColor=white)
 - ![Red Hat Certified System Administrator (EX200)](https://img.shields.io/badge/Red%20Hat-Certified%20System%20Administrator-red?logo=redhat&logoColor=white)
