@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Ankush More  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Ankush+More)](https://git.io/typing-svg)
 ### 👨‍💻 About Me  
 I'm a backend developer, programmer, and cloud solution architect with a passion for creating scalable and efficient systems. I enjoy learning and sharing knowledge through my [blog](https://blog.altgr.in).  
 
